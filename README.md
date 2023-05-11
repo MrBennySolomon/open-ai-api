@@ -7,5 +7,5 @@ npm i
  ```
  ```
 node index.js
- ```# open-ai-api
+ ```
 # open-ai-api
