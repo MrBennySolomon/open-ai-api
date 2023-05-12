@@ -37,5 +37,5 @@ const question_HE_EN = `translate from hebrew to english : "שלום עולם 3"
 const question_HE_AR = `translate from hebrew to arabic : "שלום עולם 4"`;
 const question_JAVASCRIPT_JAVA = `translate from javascript to java : "console.log('testing')"`;
 
-const result = await runPrompt(question_JAVASCRIPT_JAVA);
+const result = await runPrompt(question_EN_HE);
 console.log(result);

@@ -1,14 +1,14 @@
 {
-  "name": "chatgpt",
+  "name": "open-ai-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "open-ai-api usage example by Benny Solomon",
   "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Benny Solomon",
+  "license": "MIT",
   "dependencies": {
     "dotenv": "^16.0.3",
     "openai": "^3.1.0"
